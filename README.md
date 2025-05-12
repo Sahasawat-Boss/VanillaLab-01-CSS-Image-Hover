@@ -1,3 +1,3 @@
 ## Creating mesmerizing image hover effects using CSS3
 
-![image](https://github.com/user-attachments/assets/fbcf4c8f-a271-4d59-9ca7-06203ad1bcfe)
+![Screenshot 2025-05-12 092851](https://github.com/user-attachments/assets/044dba09-bf68-4e9e-a7e1-c6ead4ada8ef)
